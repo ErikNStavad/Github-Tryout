@@ -1,0 +1,9 @@
+hello there
+
+i am not very experienced with using git
+
+as a result i am trying to figure out how it works. 
+trying to write multiple lines
+
+
+to see how it reads in python and now
